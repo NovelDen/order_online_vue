@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [
     {
         "id": "1", 
@@ -49,56 +48,4 @@
             }
         ]
     }
-=======
-[
-    {
-        "id": "1", 
-        "title": "订单管理",
-        "icon":"location",
-        "route":"/order",
-        "sub": [
-            {
-                "id": "1-1", 
-                "title": "订单管理",
-                "route":"/manage"
-            }
-        ]
-    },
-    {
-        "id": "2", 
-        "title": "用户管理",
-        "icon":"Avatar",
-        "route":"/user",
-        "sub": [
-            {
-                "id": "2-1",
-                "title": "用户信息管理",
-                "route":"/userInfo"
-            },
-            {
-                "id": "2-2", 
-                "title": "用户评论管理",
-                "route":"/userComment"
-            }
-        ]
-    },
-    {
-        "id": "3", 
-        "title": "菜单管理",
-        "icon":"Memo",
-        "route":"/menu",
-        "sub": [
-            {
-                "id": "3-1", 
-                "title": "菜单菜品管理",
-                "route":"/dashmenu"
-            },
-            {
-                "id": "3-2", 
-                "title": "菜品种类管理",
-                "route":"/dashType"
-            }
-        ]
-    }
->>>>>>> 1c15f16ed4ec227176339327f962eaf1df58175f
 ]
